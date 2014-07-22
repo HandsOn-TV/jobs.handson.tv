@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Jobs @ HandsOn.TV
 tagline:          Work With Us!
 url:              http://jobs.handson.tv
-paginate:         3
+paginate:         1
 baseurl:          /
 author:
   name:           HandsOn.TV
