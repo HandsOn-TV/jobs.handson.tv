@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:            Jobs @ HandsOn.TV
+tagline:          Work With Us!
+url:              http://jobs.handson.tv
+paginate:         3
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           HandsOn.TV
+  url:            http://handson.tv/
+  email:          handson@handson.tv
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://bitbucket.org/martinspier/jobs.handson.tv
