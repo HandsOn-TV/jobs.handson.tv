@@ -3,11 +3,7 @@ layout: default
 title: Home
 ---
 
-<h1>Open Positions</h1>
-
-&nbsp;
-
-<p>Here is a list of open positions we have:</p>
+<p>Here is a list of our current open positions:</p>
 
 &nbsp;
 
@@ -21,6 +17,8 @@ title: Home
     </h3>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    <p>{{ post.excerpt }}
 
   </div>
   {% endfor %}
