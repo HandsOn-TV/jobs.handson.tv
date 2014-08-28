@@ -5,7 +5,7 @@ excerpt: We are creating a brand new video platform to host our services and loo
 email: martin.spier@handson.tv
 ---
 
-We are creating a brand new video platform to host our services and looking for an amazing Full-Stack Engineer to help us build it. Ideally you should have experience building RESTful web services, preferably with Node.js or Java, and had exposure to NoSQL databases. Experience wiht non-blocking frameworks is a big advantage, as well as AWS and continuous integration environments.
+We are creating a brand new video platform to host our services and looking for an amazing Full-Stack Engineer to help us build it. Ideally you should have experience building RESTful web services, preferably with Node.js or Java, and had exposure to NoSQL databases. Experience with non-blocking frameworks is a big advantage, as well as AWS and continuous integration environments.
 
 If you are passionate about building distributed systems that are that resilient, performant and scalable, and love working with the latest technologies, then we are eager to talk to you.
 
