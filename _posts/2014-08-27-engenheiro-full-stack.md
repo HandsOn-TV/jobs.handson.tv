@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Engenheiro Full-Stack
-excerpt: Estamos criando uma nova plataforma de vídeo que servirá de base para nossos serviços e procurando um Engenheiro Full-Stack para nos ajudar a construí-la.
+excerpt: Estamos criando uma nova plataforma de vídeo que servirá de base para nossos serviços e  procuramos um Engenheiro Full-Stack para nos ajudar a construí-la.
 email: martin.spier@handson.tv
 --- 
 
-Estamos criando uma nova plataforma de vídeo que servirá de base para nossos serviços e procurando um Engenheiro Full-Stack para nos ajudar a construí-la. Idealmente, você deve ter experiência em desenvolvimento de serviços RESTful, de preferência com Node.js ou Java, e ter exposição a bancos de dados NoSQL. Experiência com frameworks non-blocking é uma grande vantagem, assim como AWS e ambiente de continuous integration. 
+Estamos criando uma nova plataforma de vídeo que servirá de base para nossos serviços e procuramos um Engenheiro Full-Stack para nos ajudar a construí-la. Idealmente, você deve ter experiência em desenvolvimento de serviços RESTful, de preferência com Node.js ou Java, e ter exposição a bancos de dados NoSQL. Experiência com frameworks non-blocking é uma grande vantagem, assim como AWS e ambiente de integração continua. 
 
-Se você é apaixonado por desenvolvimento de sistemas distribuídos que são resilientes, de alto desempenho e escaláveis, e adora trabalhar com tecnologias recentes, estamos ansiosos para falar com você.
+Se você é apaixonado por desenvolvimento de sistemas distribuídos que são tolerantes à falhas, de alto desempenho e escaláveis, e adora trabalhar com tecnologias recentes, estamos ansiosos para falar com você.
 
 ## O que estamos procurando
 
@@ -25,14 +25,14 @@ Se você é apaixonado por desenvolvimento de sistemas distribuídos que são re
 * Experiência em desenvolvimento de front-end com JavaScript / JQuery / Angular / Ember
 * Exposição à algoritmos de recomendação
 * Conhecimento de sistemas de cache baseados em memória (Redis / memcached)
-* Experiência com ambientes de continuous integration (CI) como Jenkins
+* Experiência com ambientes de integração continua (CI) como Jenkins
 * Experiência desenvolvendo aplicações para cloud utilization Amazon Web Services e EC2
 
 ## Você seria um ótimo candidato se
 
 * Você gosta de trabalhar em um ambiente rápido e dinâmico, com muito contexto e mínima orientação
 * Adora criar soluções simples, elegantes e ideais que são equilibradas com as necessidades de negócio
-* Você eleva o nível técnico e é tenaz, curioso e colaborativo em todos os aspectos de seu trabalho 
+* Você eleva o nível técnico e é persistente, curioso e colaborativo em todos os aspectos de seu trabalho 
 * Você aprende rápido e tem excelente habilidade de comunicação
 
 ## Small print
