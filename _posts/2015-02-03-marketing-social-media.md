@@ -5,7 +5,7 @@ excerpt: We are looking for smart, creative, curious and result driven Marketing
 email: handson@handson.tv
 ---
 
-We are looking for smart, creative, curious and result driven product marketing intern to join our team. Our goal is to have you work with the team to help you grow your marketing and event management skills. This internship will focus on working in coordination with the CEO, COO and Content Manager to improve our distribution, giving you on-the-job training to further develop your knowledge and contribute to the HansOn.TV success!
+We are looking for smart, creative, curious and result driven product marketing intern to join our team. Our goal is to have you work with the team to help you grow your marketing and event management skills. This internship will focus on working in coordination with the CEO, COO and Content Manager to improve our distribution, giving you on-the-job training to further develop your knowledge and contribute to the HandsOn.TV success!
 
 ## Minimum qualifications:
 
