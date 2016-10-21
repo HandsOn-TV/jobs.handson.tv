@@ -9,7 +9,7 @@ We are creating a brand new video platform to host our services and looking for 
 
 If you are passionate about building distributed systems that are that resilient, performant and scalable, and love working with the latest technologies, then we are eager to talk to you.
 
-## What we are looking for
+<p class="about-title">What we are looking for</p>
 
 * 3+ years of relevant software engineering experience
 * Solid engineering standards paired with strong Computer Science skills. Must understand the core principles of object-oriented design & development and how to apply them in a highly scaled environment
@@ -19,7 +19,7 @@ If you are passionate about building distributed systems that are that resilient
 * Experience building RESTful web services and working with a service oriented architecture
 * Designing and taking advantage of NoSQL databases (Cassandra/MongoDB)
 
-## What would be nice to have
+<p class="about-title">What would be nice to have</p>
 
 * Experience with non-blocking frameworks (Netty/Vert.x)
 * Experience in front-end development with JavaScript/JQuery/Angular/Ember
@@ -28,14 +28,14 @@ If you are passionate about building distributed systems that are that resilient
 * Experience leveraging build and continuous integration (CI) environment such as Jenkins
 * Experience writing cloud deployed applications using Amazon Web Services and EC2
 
-## You'd be a great fit if
+<p class="about-title">You'd be a great fit if</p>
 
 * You enjoy working in a fast paced and dynamic environment with lots of context and minimal guidance
 * Love to design simple, elegant and optimal solutions that are balanced with business needs
 * You raise the bar technically, and are tenacious, curious and collaborative in all aspects of your work
 * Are a quick learner and have excellent communication skills
 
-## Small print
+<p class="about-title">Small print</p>
 
 * This is a contract position
 * This is a remote or telecommute position
