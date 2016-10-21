@@ -1,0 +1,212 @@
+/* Reset
+---------------------------------*/
+* {
+  margin: 0;
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+a,
+a:hover,
+a:active {
+  outline: 0px !important;
+}
+
+a:active,
+a:visited,
+a:hover,
+a:focus {
+  text-decoration: none !important
+}
+
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: '\0020';
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+/* ESTILOS GERAIS
+---------------------------------*/
+.container {
+  max-width: 1170px;
+}
+
+.no-paddings {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.align-l {
+  text-align: left;
+}
+
+.align-r {
+  text-align: left;
+}
+
+.align-c {
+  text-align: center;
+}
+
+.text-left-m {
+  text-align: left;
+}
+
+.text-right-m {
+  text-align: left;
+}
+
+.mtop-15 {
+  margin-top: 15px;
+}
+
+.mtop-20 {
+  margin-top: 20px;
+}
+
+.mtop-25 {
+  margin-top: 25px;
+}
+
+.mtop-35 {
+  margin-top: 35px;
+}
+
+.mtop-40 {
+  margin-top: 40px;
+}
+
+.mtop-75 {
+  margin-top: 75px;
+}
+
+.pd-t-20 {
+  padding-top: 20px;
+}
+
+.vertical-box {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+/* ESTILOS
+------------------------- */
+
+/* --- main --- */
+
+.main {
+  width: 100%;
+}
+
+/* MEDIA QUERIES
+--------------------------------- */
+@media only screen and (max-width:1200px) {
+  .container {
+    max-width: none;
+    width: 100% !important;/* */
+  }
+
+  .container-header {
+    max-width: none;
+    width: 80% !important;/* */
+  }
+
+}
+
+@media only screen and (max-width:1160px) {
+  .pd-mm {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+}
+
+@media only screen and (max-width:960px) {
+  .spaco {
+    width: 100%;        /*height:75px; */
+    height: 125px;
+    background: #CCC;
+  }
+
+  .container-header {
+    width: 100% !important;/* */
+  }
+
+}
+
+@media only screen and (max-width:767px) {
+  .mbotom-m-30 {
+    margin-bottom: 30px;
+  }
+
+  .bt-wd-m {
+    min-width: 205px;
+  }
+
+  .vertical-box {
+    display: block;
+  }
+
+  .pd-m {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+
+  .mtop-20-m {
+    margin-top: 10px;
+  }
+
+  .mb-m-25 {
+    margin-bottom: 12px !important;
+  }
+
+  .pd-mm {
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+  }
+
+  .pd-no {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+
+  .text-left-m {
+    text-align: center !important;
+  }
+
+  .text-right-m {
+    text-align: center !important;
+  }
+
+}

@@ -1,0 +1,117 @@
+.form-primario,
+.form-branco {
+  display: block;
+  width: 100%;
+  padding: 12px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #999 !important;
+  background-color: #f8f8f8;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 0;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  transition: all .3s;
+}
+
+.form-branco {
+  color: #444;
+  background-color: #FFF;
+  font-size: 16px;
+}
+
+.form-primario:focus,
+.form-branco:focus {
+  outline: 0;
+  border: 1px solid #f2f2f2;
+}
+
+textarea.form-primario,
+textarea.form-branco {
+  height: auto;
+  resize: none;
+}
+
+.m-icon {
+  display: inline-block;
+  position: relative;
+  font-size: 24px;
+  vertical-align: middle;
+}
+
+.b-icon {
+  display: inline-block;
+  position: relative;
+  font-size: 22px;
+  vertical-align: middle;
+  top: 0px;
+}
+
+/* BOTÃO BÁSICO */
+.botao {
+  font-size: 14px !important;
+  display: inline-block !important;
+  color: #444 !important;
+  padding: 15px 38px !important;
+  background-color: transparent !important;
+  text-decoration: none !important;
+  box-sizing: border-box !important;
+  border: 0px !important;
+  cursor: pointer !important;
+  outline: 0 !important;
+  margin: 2.5px !important;
+  -webkit-transition: all .3s !important;
+  -moz-transition: all .3s !important;
+  transition: all .3s !important;
+  vertical-align: middle !important;
+  -webkit-touch-callout: none !important;
+  -webkit-user-select: none !important;
+  -khtml-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
+  border-radius: 0 !important;
+}
+
+.botao:hover {
+  background-image: -webkit-linear-gradient(to bottom, rgba(0, 0, 0, .15) 0%, rgba(0, 0, 0, .15) 47%, rgba(0, 0, 0, .15) 100%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, .15) 0%, rgba(0, 0, 0, .15) 47%, rgba(0, 0, 0, .15) 100%);
+}
+
+/* BOTAO-CORES */
+.bt-default {
+  color: #464646;
+  background-color: #FFF;
+  border: 1px solid #ccc;
+}
+
+.bt-primario {
+  color: #fff !important;
+  background-color: #414141;
+}
+
+.bt-sucesso {
+  color: #fff;
+  background-color: #009835;
+}
+
+.bt-erro {
+  color: #fff;
+  background-color: #CC0000;
+}
+
+.bt-info {
+  color: #fff;
+  background-color: #5bc0de;
+}
+
+.bt-alerta {
+  color: #fff;
+  background-color: #F28E00;
+}
+
+.bt-handson {
+  color: #fff !important;
+  background-color: #d40f50 !important;
+}

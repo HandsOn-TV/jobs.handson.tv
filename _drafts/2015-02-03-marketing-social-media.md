@@ -7,12 +7,12 @@ email: handson@handson.tv
 
 We are looking for smart, creative, curious and result driven product marketing intern to join our team. Our goal is to have you work with the team to help you grow your marketing and event management skills. This internship will focus on working in coordination with the CEO, COO and Content Manager to improve our distribution, giving you on-the-job training to further develop your knowledge and contribute to the HandsOn.TV success!
 
-## Minimum qualifications:
+<p class="about-title">Minimum qualifications</p>
 
 * IDP Students – BA, Project Management, Global Business and Marketing.
 
 
-## Preferred qualifications:
+<p class="about-title">Preferred qualifications</p>
 
 * Excellent written and oral communications skills
 * Strong organizational and analytical skills
@@ -21,7 +21,7 @@ We are looking for smart, creative, curious and result driven product marketing 
 * Deep interest in creating and analyzing products
 * Deep knowledge on Social Media tools
 
-## Responsibilities will be the following but not limited to:
+<p class="about-title">Responsibilities will be the following but not limited to</p>
 
 * Understand and analyze user needs
 * Manage social medias

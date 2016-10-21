@@ -1,0 +1,88 @@
+/* === RODAPE ===*/
+.rodape {
+  padding: 35px 0 0;
+  border-top: 5px solid #d40f50;
+  margin: 0;
+}
+
+.rodape h3 {
+  margin: 0 0 15px 0;
+  padding: 0;
+  color: #3a3a3a;
+  font-size: 13px;
+}
+
+.rodape .copy {
+  margin: 0 0 15px 0;
+  padding: 0;
+  color: #a3a3a3;
+  font-size: 11px;
+}
+
+.rodape ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.rodape ul li {
+  float: none;
+  margin: 10px 0;
+}
+
+.rodape ul li a {
+  display: block;
+  padding: 0;
+  color: #a3a3a3;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.rodape ul li a:hover {
+  color: #464646;
+}
+
+.rodape .redes ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.rodape .redes li {
+  display: inline-block;
+  margin: 0 5px;
+  padding: 0;
+}
+
+.rodape .redes li a {
+  position: relative;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  padding: 0;
+  outline: 0;
+  background: transparent;
+  text-decoration: none;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  transition: all .3s;
+}
+
+.rodape .redes li:first-child {
+  margin: 0 5px 0 0;
+}
+
+.rodape .redes li a:hover:after {
+  content: " ";
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #444;
+  opacity: 0.2;
+  filter: alpha(opacity=20);   /* mix-blend-mode: multiply;*/
+  z-index: 2;
+}

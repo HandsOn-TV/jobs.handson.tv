@@ -7,12 +7,11 @@ email: handson@handson.tv
 
 We are looking for smart, creative, curious and result driven Content Manager to join our team. We expect our interns to work with content analysis, search and find through the KPIs our target as content creator, relationship with content creators, reporting them. Our goal is to have you work with the team to increase the number of content creators, the quality of the content and promoting HandsOn.TV and their content together and increase our audience.
 
-## Minimum qualifications:
+<p class="about-title">Minimum qualifications</p>
 
 * IDP Students – BA, Project Management, Global Business and Marketing.
 
-
-## Preferred qualifications:
+<p class="about-title">Preferred qualifications</p>
 
 * Excellent written and oral communications skills
 * Strong organizational and analytical skills
@@ -21,7 +20,7 @@ We are looking for smart, creative, curious and result driven Content Manager to
 * Demonstrated capacity for developing and understanding strategy
 * Deep interest in creating and analyzing products
 
-## Responsibilities will be the following but not limited to:
+<p class="about-title">Responsibilities will be the following but not limited to</p>
 
 * Understand and analyze content creator needs
 * Help to define a product vision and strategy

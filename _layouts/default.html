@@ -1,25 +1,41 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-
-  {% include head.html %}
-
+<html>
+  <head>
+    <title>Jobs - HandsOn.TV</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="#{handsonDescription}">
+    <meta itemprop="name" content="#{handsonTitle}">
+    <meta itemprop="description" content="#{handsonDescription}">
+    <meta itemprop="image" content="/images/handson.png">
+    <meta property="og:title" content="#{handsonTitle}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://jobs.handson.tv">
+    <meta property="og:image" content="/images/handson.png">
+    <meta property="og:description" content="#{handsonDescription}">
+    <meta property="og:site_name" content="#{handsonTitle}">
+    <link href="/public/css/bootstrap.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/public/css/fonts.css" rel="stylesheet">
+    <link href="/public/css/generic.css" rel="stylesheet">
+    <link href="/public/css/buttons.css" rel="stylesheet">
+    <link href="/public/css/header.css" rel="stylesheet">
+    <link href="/public/css/footer.css" rel="stylesheet">
+    <link href="/public/css/iconfont.css" rel="stylesheet">
+    <link href="/public/css/home.css" rel="stylesheet">
+    <link href="/public/css/about.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries-->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file://-->
+    <!--if lt IE 9
+    script(src='/js/html5shiv.min.jss')
+    script(src='/js/respond.min.js')
+    -->
+  </head>
   <body>
-
-    <div class="container content">
-      <div class="masthead">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}" title="Home"><img src="{{ site.logo }}"></a>
-        </h3>
-      </div>
-
-      {{ content }}
-
-      <div class="footer">
-        <p>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-        </p>
-      </div>
-    </div>
-
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
   </body>
 </html>

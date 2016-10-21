@@ -1,0 +1,101 @@
+.about-us {
+  color: #606060;
+  margin-bottom: 80px;
+}
+
+.about-light {
+  font-family: 'Helvetica-Light';
+  margin-bottom: 24px;
+}
+
+.about-bold {
+  font-family: 'Helvetica-Bold';
+}
+
+.about-us nav {
+  text-align: center;
+  margin-top: 65px;
+}
+
+.about-us nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.about-us nav ul li {
+  display: block;
+  margin: 5px 0;
+}
+
+.about-page {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin-bottom: 60px;
+}
+
+.about-page .container {
+  max-width: 992px;
+}
+
+.about-page-text {
+  font-family: 'HelveticaNeue';
+  font-size: 14px;
+  color: #606060;
+}
+
+.about-page-text p {
+  margin-bottom: 20px;
+}
+
+.about-page-text textarea {
+  resize: none;
+}
+
+.about-page-text .material-icons {
+  color: #cecece;
+  margin-right: 10px;
+}
+
+.about-page-text table {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.about-page-text .contact {
+  margin-top: 50px;
+}
+
+.about-title {
+  font-family: 'HelveticaNeue-Bold' !important;
+  color: #d40f50;
+}
+
+.about-page-collapse {
+  color: #828282;
+  font-family: 'HelveticaNeue-Light';
+  margin-top: 30px;
+}
+
+.about-page-collapse ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.about-page-collapse ul li {
+  padding: 10px 0;
+}
+
+.collapse-button {
+  margin-top: 30px;
+  border-bottom: 1px solid #e0e0e0;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+
+.collapse-button-active {
+  font-family: 'Helvetica-Bold';
+  color: #d40f50;
+}

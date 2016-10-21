@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Jobs @ HandsOn.TV
 tagline:          Work With Us!
 url:              http://jobs.handson.tv
-logo:             /public/img/logo.png
-paginate:         10
+logo:             /public/images/logo1.png
+paginate:         8
 baseurl:          /
 author:
   name:           HandsOn.TV
@@ -21,3 +21,5 @@ author:
 version:          1.0.0
 github:
   repo:           https://bitbucket.org/martinspier/jobs.handson.tv
+
+gems:             [jekyll-paginate]
